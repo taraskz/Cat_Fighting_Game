@@ -7,6 +7,7 @@ Respiratory for a cat fighting game Trey and I are making
 - Make a battle system to fight enemies / multiple weapons
 - Create a shop feature where player can buy things
 - Make an engaging story but it can be skipped by the user
+- Have clear instruction for user 
   
 
 ***Desired/nice to have features in our game***
